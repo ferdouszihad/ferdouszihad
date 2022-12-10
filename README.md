@@ -1,26 +1,33 @@
 ## <img src="img/cover.png" alt="">
 
 <h1></h1> 
+<p align="center">
+<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
+</p>
+
 <h4 align="center">Seeking for a Developer??</h4>
 <h1 align="center">🏆Ferdous Zihad is Here🏆</h1>
-<h3 align="center" style="background:#fff">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
+<h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
+<br/>
+<br/>
+<p align="left">I am a FullStack Developer Specialized at Mern-Stack technology. I have completed around 8+ Full-Stack Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdouszihad&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouszihad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdouszihad" alt="ferdouszihad" /></a> </p>
+- ♨ Check out my portfolio and projects at [https://ferdous-zihad.web.app/](https://ferdous-zihad.web.app/)
 
 - 🌱 I’m currently learning **TypeScript,NextJs, Redux**
-
-- 👨‍💻 All of my projects are available at [https://ferdous-zihad.web.app/](https://ferdous-zihad.web.app/)
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, MongoDB**
 
 - 📫 How to reach me **f.zihad333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-H8atfneR62muBZTem5DiaN1EuTIB_hf/view?usp=share_link](https://drive.google.com/file/d/1-H8atfneR62muBZTem5DiaN1EuTIB_hf/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-H8atfneR62muBZTem5DiaN1EuTIB_hf/view?usp=share_link]([https://drive.google.com/file/d/1-H8atfneR62muBZTem5DiaN1EuTIB_hf/view?usp=share_link)
 
 - ⚡ Fun fact **I am Coffee addict**
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ferdouszihad&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouszihad" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdouszihad" alt="ferdouszihad" /></a> </p>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ferdouszihad09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdouszihad09" height="30" width="40" /></a>
