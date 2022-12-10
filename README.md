@@ -1,4 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ferdous Zihad</h1>
+<img src="img/cover.png" alt="">
+
+<div style="text-align: center;">
+        <img style="width:180px; border-radius:100px; padding:3px; border:3px solid blue;"src="https://avatars.githubusercontent.com/u/38307975?v=4" alt="">
+</div>
+
+<section id="top-banner" style="display:flex;justify-content:space-around">
+
+<div class="half-width text-block-l ">
+    <h1>Hi! I am<br> Ferdous Zihad</h1>
+    <p>Hi ! I am a <strong>Front-End Developer(REACT)</strong> .I have been working on a lot of projects since
+        2019. My quick
+        understanding and problem-solving ability, Strong productive experience make me more special. You
+        can
+        knock me any time. We can Talk about your ideas project &amp; any other consultation.</p>
+    <a href="http://facebook.com/ferdouszihad09" target="_blank" class="link-button">Hire me now!</a>
+</div>
+
+<div class="half-width">
+    <img style="width:180px; border-radius:100px; padding:3px; border:3px solid blue;"src="https://avatars.githubusercontent.com/u/38307975?v=4" alt="">
+</div>
+
+</section>
+
+<h1 align="center">Hello, I'm Ferdous Zihad</h1>
 <h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdouszihad&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouszihad" /> </p>
