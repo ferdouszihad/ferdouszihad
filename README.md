@@ -1,4 +1,4 @@
-## <img src="img/cover.png" alt="">
+## <img src="https://media.licdn.com/dms/image/v2/D5616AQFXNBT3e-G82Q/profile-displaybackgroundimage-shrink_350_1400/B56ZxtP544IgAc-/0/1771359413788?e=1772668800&v=beta&t=keiO6pAUt2hiILiWz-oiukS8QieNTI2c18pUEmmmH-k" alt="">
 
 <h1></h1> 
 <p align="center">
