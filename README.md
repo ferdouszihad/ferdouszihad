@@ -1,13 +1,9 @@
-## <img src="https://media.licdn.com/dms/image/v2/D5616AQFXNBT3e-G82Q/profile-displaybackgroundimage-shrink_350_1400/B56ZxtP544IgAc-/0/1771359413788?e=1772668800&v=beta&t=keiO6pAUt2hiILiWz-oiukS8QieNTI2c18pUEmmmH-k" alt="">
+## <img src="https://media.licdn.com/dms/image/v2/D5616AQFXNBT3e-G82Q/profile-displaybackgroundimage-shrink_350_1400/B56ZxtP544IgAc-/0/1771359413788?e=1776297600&v=beta&t=V4lwkXBxc3yv1WpFR7kPiFvh8-dfO2cy9b4vNs8Bxg0" alt="" width="100%">
 
 <h1></h1> 
 <p align="center">
 Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
 </p>
-
-<h4 align="center">Seeking for a Developer??</h4>
-<h1 align="center">🏆Ferdous Zihad is Here🏆</h1>
-<h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
 <br/>
 <p align="left">I am a FullStack Developer Specialized at Mern-Stack technology. I have completed around 8+ Full-Stack Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
 <hr/>
